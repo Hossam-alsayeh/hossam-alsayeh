@@ -1,0 +1,141 @@
+*{
+			padding:0;
+			margin:0;
+			background:#DDD;
+				}
+
+body{
+     
+					background:#DDD;
+							}
+				
+
+
+header{
+			margin-top:30px;	
+				}		
+				
+				
+#logo{
+				
+			float:left;
+				}
+
+.logo h2{
+			color:#000000;
+			padding:10px;
+			margin:20px;
+				}
+				
+
+
+
+nav{
+			float:right;	
+				}
+				
+				
+nav ul{
+			width:outo;
+			over-flow:outo;
+				}
+
+
+nav ul li{
+				display:inline;
+				list-style:none;
+				margin-right:20px;
+				}
+
+.li1:hover{
+				border:1px solid#00f4ff;
+				padding:8px;
+				margin:20px;
+				background:#262a26;
+				}
+				
+.li2{
+				border-bottom:2px solid#3500ff;
+				padding:10px;
+				}
+
+
+.li3:hover{		
+	  		border-bottom:2px solid#3500ff;
+				padding:10px;
+				}
+
+
+
+nav ul li a{
+			text-decoration:none;
+			color:#fff;
+			font-size:22px;
+			padding:10px 20px;
+			color:#000;
+				}
+
+
+
+.buttons{
+				margin-left:30%;
+				margin-top:20%;
+			  	}
+
+button{
+				width:200px;
+				height:50px;
+				border:1px solid#fff;
+				margin:5px;
+	  			}
+
+button a{
+				text-decoration:none;
+				color:#ff0089;
+				font-size:20px;
+		  		}
+
+.button1:hover{
+				background:#262a26;
+				  	 }
+
+.button2:hover{
+				background:#262a26;
+				  	 }
+				  	 
+
+
+/*حول الصفحه*/
+
+
+
+.profile {
+				margin-top:10%;
+				}
+
+
+.profile h2{
+				font-size:35px;
+				text-align: center;
+				padding:20px;
+				border-top:3px solid#17006d;
+				}
+				
+.profile h2 span{
+				border-bottom:2px solid#3500ff;
+				padding:20px;
+				}				
+				
+				
+.profile p{
+				width:250px;
+				float:right;
+				direction:rtl;
+				padding:30px;
+				}
+
+.imag img{
+			width:420px;
+     padding:30px;
+     border-radius: 40px; 
+				}

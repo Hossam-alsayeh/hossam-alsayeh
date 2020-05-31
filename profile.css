@@ -1,0 +1,204 @@
+*{
+			padding:0;
+			margin:0;
+			background:#fff;
+				}
+
+body{
+     
+					background:#DDD;
+							}
+				
+
+
+header{
+			margin-top:30px;	
+				}		
+				
+				
+#logo{
+				
+			float:left;
+				}
+
+.logo h2{
+			color:#000000;
+			padding:10px;
+			margin:20px;
+				}
+				
+
+
+
+nav{
+			float:right;	
+				}
+				
+				
+nav ul{
+			width:outo;
+			over-flow:outo;
+				}
+
+
+nav ul li{
+				display:inline;
+				list-style:none;
+				margin-right:20px;
+				}
+
+
+
+.li1:hover{
+				border:1px solid#00f4ff;
+				padding:8px;
+				margin:20px;
+				background:#262a26;
+				}
+				
+.li2{
+		  	border-bottom:2px solid#3500ff;
+				padding:10px;
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+nav ul li a{
+			text-decoration:none;
+			color:#fff;
+			font-size:22px;
+			padding:10px 20px;
+			color:#000;
+				}
+
+
+.good h2{
+				color:#00f4ff;
+				padding:20px;
+				margin-top:40%;
+				text-align:center;
+				font-size:40px;
+				background:#262a26;
+				}
+
+.buttons{
+				margin-left:30%;
+				margin-top:20%;
+			  	}
+
+button{
+				width:200px;
+				height:50px;
+				border:1px solid#fff;
+				margin:5px;
+	  			}
+
+button a{
+				text-decoration:none;
+				color:#fff;
+				font-size:20px;
+		  		}
+
+.button1:hover{
+				background:#262a26;
+				  	 }
+
+.button2:hover{
+				background:#262a26;
+				  	 }
+				  	 
+
+
+/*حول الصفحه*/
+
+
+
+.profile {
+				background:#ffffff;
+				margin-top:14%;
+				}
+
+
+.profile h2{
+				font-size:35px;
+				text-align: center;
+				padding:20px;
+				border-top:3px solid#17006d;
+				}
+				
+.profile h2 span{
+				border-bottom:4px solid#17006d;
+				padding:20px;
+				}				
+				
+				
+.body{
+				
+				}				
+				
+				
+				
+.body1{
+				float:right;
+				padding:10px;
+				margin:40px;
+				width:40%;
+				background:#e9e9e9;
+				text-align:center;
+				height:240px;
+				border-top:4px solid#17006d;
+				border-radius: 10px; 
+	  			}
+	  			
+	  			
+	 	  			
+.body2{
+				padding:10px;
+				margin:23px 40px 40px 40px;
+				width:40%;
+				background:#e9e9e9;
+				text-align:center;
+				height:240px;
+				border-top:4px solid#17006d;
+				border-radius: 10px; 
+	  			}
+	  			
+	  			
+	  			
+.body3{
+				padding:10px;
+				margin: 70px 0px 40px 29%;
+				width:40%;
+				background:#e9e9e9;
+				text-align:center;
+				height:240px;
+				border-top:4px solid#17006d;
+				border-radius: 10px; 
+	  			}	  			
+	  			
+	  				  			
+	  			
+.image1{
+				width:140px;
+				margin:5px;
+				border-radius: 150px; 
+				}
+				
+
+h3{
+				background:#e9e9e9;
+				}
+				
+				
+.pdiv{
+				background:#e9e9e9;
+				}

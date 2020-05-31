@@ -1,0 +1,129 @@
+*{
+			padding:0;
+			margin:0;
+				}
+
+body{
+			background-image:url("6.jpg")	;
+			background-position:center;
+			background-size:cover;
+			background-repeat:no-repeat;
+			height:100vh;
+				}
+				
+
+
+header{
+			margin-top:30px;	
+				}		
+				
+				
+#logo{
+				
+			float:left;
+				}
+
+.logo h2{
+			color:#00f4ff;
+			padding:10px;
+			margin:20px;
+				}
+				
+.logo h2 span{
+				background:#00f4ff;
+				padding:10px;
+				font-size:25px;
+				color:#17006d;
+				}
+
+nav{
+			float:right;	
+				}
+				
+				
+nav ul{
+			width:outo;
+			over-flow:outo;
+				}
+
+
+nav ul li{
+				display:inline;
+				list-style:none;
+				margin-right:20px;
+				}
+
+.li1{
+				border:1px solid#00f4ff;
+				padding:8px;
+				margin:20px;
+				background:#262a26;
+				}
+				
+.li2:hover{
+				border:1px solid#00f4ff;
+				padding:8px;
+				margin:20px;
+				background:#262a26;
+				}
+
+
+.li3:hover{
+				border:1px solid#00f4ff;
+				padding:8px;
+				margin:20px;
+				background:#262a26;
+				}
+
+
+
+nav ul li a{
+			text-decoration:none;
+			color:#fff;
+			font-size:22px;
+			padding:10px 20px;
+			border-bottom:2px solid#17006d;
+				}
+
+
+.good h2{		
+				color:#17006d;
+				padding:20px;
+				margin-top:25%;
+				text-align:center;
+				font-size:40px;
+				}
+
+
+.buttons{
+				text-align:center;
+				margin-top:20px;
+			  	}
+
+
+button{
+				
+				border-top:2px solid#fff;
+				margin:5px;
+				padding:10px;
+	  			}
+
+button a{
+				text-decoration:none;
+				color:#17006d;
+				font-size:20px;
+		  		}
+
+.button1:hover{
+				background:#00f4ff;
+				  	 }
+
+.button2:hover{
+				background:#00f4ff;
+				  	 }
+				  	 
+
+
+/*حول الصفحه*/
+
+
